@@ -14,3 +14,9 @@ Meu nome é NATAN e sou estudante de programação.
 
 ## Status
 [![Status so meu perfil](https://github-readme-stats.vercel.app/api?username=natan-lopes&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=natan-lopes&color=green)
