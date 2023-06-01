@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Quem sou eu?
+Meu nome é NATAN e sou  estudante de programação na [Cod3r]().
+-  📖  Atualmente estou aprendendo os fundamentos de HTML, CSS & JAVASCRIPT.
+
+
 
 <!--
 **natan-lopes/natan-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
