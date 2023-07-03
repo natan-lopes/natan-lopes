@@ -1,5 +1,6 @@
 
-### - Estou sempre em busca de oportunidades para aprender e crescer profissionalmente. Ficarei feliz em discutir como posso contribuir para o sucesso da sua equipe ou organização.
+### - Estou sempre em busca de oportunidades para aprender e crescer profissionalmente. 
+### - Ficarei feliz em discutir como posso contribuir para o sucesso da sua equipe ou organização.
 
 
 
